@@ -1,0 +1,5 @@
+- Type of error:   NameError: uninitialized constant DockingStation
+- File path where error occurred:   /Users/oluwafunmilayoadewodu/.rvm/rubies/ruby-2.4.0/bin/irb
+- Line number of the error:   11
+- Meaning of the error message:  Raised when a given name that is invalid or undefined.
+- How to solve the error:   We can solve the error by defining a class called DockingStation.
