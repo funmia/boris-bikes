@@ -39,4 +39,5 @@ describe DockingStation do
     subject.dock(bike)
     expect(subject.bikes[0]).to eq bike
   end
+
 end
